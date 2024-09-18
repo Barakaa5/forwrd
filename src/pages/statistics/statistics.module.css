@@ -1,0 +1,13 @@
+.pageRoot {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  height: calc(100vh - 150px);
+}
+
+.chartContainer {
+  background-color: white;
+  width: 400px;
+  height: 400px;
+}
